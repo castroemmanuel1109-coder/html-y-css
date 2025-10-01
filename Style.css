@@ -1,12 +1,11 @@
 /* Creación de variables a  utilizar */
 :root {
     --primary-color: rgb(50,120,100);
-    --secondary-color: #934a19;
+    --secondary-color: #ca1111ff;
     --text-color: #333333;;
     --background-color: #f4f4f4;
     --light-gray: #ecf0f1;
 }
-
 
 body {
     font-family: Arial, Helvetica, sans-serif;
